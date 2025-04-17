@@ -1,4 +1,4 @@
-# Word and Sentence Counter
+# Word Counter By Hosu
 
 A simple React application for analyzing text. It provides live statistics on characters, words, sentences, paragraphs, and estimated reading time.
 
