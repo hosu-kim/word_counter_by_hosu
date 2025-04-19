@@ -11,7 +11,7 @@ function App() {
         <WordCounter />
       </main>
       <footer>
-        <p>Created by Hosu • {new Date().getFullYear()}</p>
+        <p>Created by hosu-kim on Github • {new Date().getFullYear()}</p>
       </footer>
     </div>
   );

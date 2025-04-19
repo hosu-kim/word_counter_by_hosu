@@ -62,7 +62,7 @@ const WordCounter = () => {
 				<div className="stat-box">
 					<h3>Words</h3>
 					<p>{stats.words}</p>
-				</div>
+				</div> 
 				<div className="stat-box">
 					<h3>Sentences</h3>
 					<p>{stats.sentences}</p>
