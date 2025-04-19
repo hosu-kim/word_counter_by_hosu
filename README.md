@@ -10,29 +10,7 @@ A simple React application for analyzing text. It provides live statistics on ch
 - **Counts:** Characters, words, sentences, paragraphs.
 - **Estimated reading time**: Based on average words per minute.
 - **Responsive & clean UI**.
-
----
-
-## Project Structure
-
-```
-src/
-	assets/
-		react.svg
-	components/
-		WordCounter.tsx      # Main React component for the word counter UI
-		WordCounter.css      # Styles for the WordCounter component
-	utils/
-		textAnalysis.ts      # Utility functions for text analysis
-	App.tsx                # Root React component
-	App.css                # Global app styles
-	index.tsx              # React entry point
-	index.css              # Base CSS
-	vite-env.d.ts          # Vite TypeScript declarations
-public/
-	vite.svg
-```
-
+  
 ---
 
 ## Usage
@@ -75,10 +53,15 @@ public/
 
 ---
 
+## Author
+
+- hosu-kim
+
+---
+
 ## License
 
 MIT
 
 ---
 
-*Created by hosu-kim*
